@@ -1,5 +1,11 @@
 module.exports = {
   extends: ['@kaizentech/base', 'airbnb-typescript/base'],
+  settings: {
+    'import/resolver': {
+      typescript: true,
+      node: true
+    }
+  },
   rules: {
     // turn it off for functions that don't use "this"
     'class-methods-use-this': 'off',
