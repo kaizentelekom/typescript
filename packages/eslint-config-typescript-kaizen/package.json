@@ -1,6 +1,6 @@
 {
   "name": "@kaizentech/eslint-config-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Kaizen's TypeScript ESLint config",
   "main": "index.js",
   "exports": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@kaizentech/eslint-config": "^1.2.1",
-    "@kaizentech/eslint-config-typescript-base": "^1.0.1",
+    "@kaizentech/eslint-config-typescript-base": "^1.0.2",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "@typescript-eslint/parser": "^6.4.0",
     "eslint-config-airbnb-typescript": "^17.1.0",
