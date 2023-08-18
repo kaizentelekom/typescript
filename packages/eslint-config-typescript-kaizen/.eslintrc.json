@@ -1,0 +1,6 @@
+{
+  "extends": "./index",
+  "parserOptions": {
+    "project": "./packages/eslint-config-typescript-kaizen/tsconfig.json"
+  }
+}
