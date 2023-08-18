@@ -15,6 +15,9 @@ if you want to use React config add this
 ```json
 {
   "root": true,
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "extends": "@kaizentech/typescript"
 }
 
@@ -25,6 +28,9 @@ if you want to use React Native config add this
 ```json
 {
   "root": true,
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "extends": "@kaizentech/eslint-config-typescript/react-native"
 }
 

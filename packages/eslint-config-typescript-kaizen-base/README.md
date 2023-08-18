@@ -15,6 +15,9 @@ then add this
 ```json
 {
   "root": true,
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "extends": "@kaizentech/typescript-base"
 }
 
