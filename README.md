@@ -1,5 +1,5 @@
 # Kaizen JavaScript Style Guide
-This monorepo contains Kaizen's ESLint TypeScript packages
+This monorepo contains Kaizen's TypeScript ESLint packages
 
 ## Packages
 Click the links to go their installation and usage
