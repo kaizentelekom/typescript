@@ -55,6 +55,8 @@ module.exports = {
       { anonymous: 'always', named: 'never', asyncArrow: 'always' }
     ],
 
-    '@typescript-eslint/object-curly-spacing': ['error', 'always']
+    '@typescript-eslint/object-curly-spacing': ['error', 'always'],
+
+    '@typescript-eslint/indent': 'off'
   }
 }
