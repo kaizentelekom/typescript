@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@kaizentech', 'airbnb-typescript', '@kaizentech/typescript-base']
+  extends: ['@kaizentech', 'airbnb-typescript', '@kaizentech/eslint-config/typescript-base']
 }
