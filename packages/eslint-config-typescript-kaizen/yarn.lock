@@ -209,16 +209,17 @@
     eslint-config-prettier "^8.8.0"
     eslint-plugin-import "^2.27.5"
 
-"@kaizentech/eslint-config-typescript-base@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.0.1.tgz#a49e3a4530b625628fedbdb975196b788ec55814"
-  integrity sha512-s1+O3lV0tYJklCdakGtRi6SMid2dXB44a3fuhl3F+BTxL+cGjcxLSlxlSCrW8uGT/KIhx3ir9INoq7BdxYUEcQ==
+"@kaizentech/eslint-config-typescript-base@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.0.3.tgz#6d7b6ab29977a38d4f93eeefe66ecdfafcd78ec2"
+  integrity sha512-on8KgL4Bgp52p+Vqn4Ru2AXiuTLi5BWKNgH6pvJ7tdjqcKr4rFPGPyEx9TEcZSVLJHsJpLCj4ROPG5Gg7l3iuw==
   dependencies:
     "@kaizentech/eslint-config-base" "^1.2.0"
     "@typescript-eslint/eslint-plugin" "^6.4.0"
     "@typescript-eslint/parser" "^6.4.0"
     eslint-config-airbnb-typescript "^17.1.0"
     eslint-import-resolver-typescript "^3.6.0"
+    eslint-plugin-import "^2.27.5"
 
 "@kaizentech/eslint-config@^1.2.1":
   version "1.2.1"
