@@ -209,10 +209,10 @@
     eslint-config-prettier "^8.8.0"
     eslint-plugin-import "^2.27.5"
 
-"@kaizentech/eslint-config-typescript-base@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.0.3.tgz#6d7b6ab29977a38d4f93eeefe66ecdfafcd78ec2"
-  integrity sha512-on8KgL4Bgp52p+Vqn4Ru2AXiuTLi5BWKNgH6pvJ7tdjqcKr4rFPGPyEx9TEcZSVLJHsJpLCj4ROPG5Gg7l3iuw==
+"@kaizentech/eslint-config-typescript-base@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.0.4.tgz#43b875bb3eb8a3f70221a0a55638b5590bc4b1a4"
+  integrity sha512-QPrI6uLkouLcXANZ/tbA0bBnxflMc6NgLiK7R36MGT2cXtmFSsoZGM/9sABW7j1cXIqSBPm0no+f2xu7ChOg4w==
   dependencies:
     "@kaizentech/eslint-config-base" "^1.2.0"
     "@typescript-eslint/eslint-plugin" "^6.4.0"
