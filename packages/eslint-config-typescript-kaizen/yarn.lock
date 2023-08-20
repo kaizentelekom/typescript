@@ -221,10 +221,10 @@
     eslint-import-resolver-typescript "^3.6.0"
     eslint-plugin-import "^2.27.5"
 
-"@kaizentech/eslint-config@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config/-/eslint-config-1.2.1.tgz#c626a97f5238ef8935616f67702ca923c9467f11"
-  integrity sha512-cCj8RagXmhvRdsui3rHhO6InZh8PC/G+uJUrEPF8zKJt5RWb43+wTSxkfONXDWHE0Mldze8GeUMIEFo2emDLew==
+"@kaizentech/eslint-config@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config/-/eslint-config-1.2.2.tgz#685b4f336f8cf39352671b0307d9fc8304f218ae"
+  integrity sha512-GYLxzO8cnks+3CqX4e+3YlZ86JTMVAthQSiZRzw0RAcEtr+RJv1IJ73zwpAUGxLVSpQHOhImdAomCStEzrfwiQ==
   dependencies:
     "@kaizentech/eslint-config-base" "^1.2.0"
     "@kaizentech/eslint-plugin-react-native" "^1.0.0"
