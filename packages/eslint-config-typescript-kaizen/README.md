@@ -1,4 +1,4 @@
-# @kaizentech/eslint-config
+# @kaizentech/eslint-config-typescript
 
 This package contains TypeScript, React, and React Native style guides
 
