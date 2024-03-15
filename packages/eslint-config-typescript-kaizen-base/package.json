@@ -1,6 +1,6 @@
 {
   "name": "@kaizentech/eslint-config-typescript-base",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Kaizen's TypeScript ESLint base config",
   "main": "index.js",
   "repository": {
@@ -18,9 +18,9 @@
     "eslint-plugin-import": "^2.27.5"
   },
   "peerDependencies": {
-    "eslint": "^8.41.0",
-    "prettier": "^2.8.8",
-    "typescript": "^4.8.4"
+    "eslint": "*",
+    "prettier": "*",
+    "typescript": "*"
   },
   "devDependencies": {
     "eslint": "^8.41.0",
