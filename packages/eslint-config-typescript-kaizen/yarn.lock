@@ -200,33 +200,33 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@kaizentech/eslint-config-base@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-base/-/eslint-config-base-1.3.0.tgz#10ec3541671202df15b71461d1a4ad8473cddc8b"
-  integrity sha512-zpg3Z3uTanwLbJ6kAeU0XF//d/DC7ceuUEo1J6+grHEm0ANjHYsQvHI8+6yoJRz13xxaDlHffcmjiSsAV4YTlA==
+"@kaizentech/eslint-config-base@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-base/-/eslint-config-base-1.4.0.tgz#1c7154e1bb7e80fcf8ba915a396599fb68fab22e"
+  integrity sha512-1dJaR28N96Qj8BIoD5b5pDQxJ6mjkFlx49G+MxQqCu4soCGj/oiaPE8HzGOFKsR22zsJsQH8lRd7oZo3AnbSSw==
   dependencies:
     eslint-config-airbnb-base "^15.0.0"
     eslint-config-prettier "^8.8.0"
     eslint-plugin-import "^2.27.5"
 
-"@kaizentech/eslint-config-typescript-base@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.1.0.tgz#c8b5929fc50609fd4ae577953a509e6dcbad0393"
-  integrity sha512-D/Bb1gNI+rvZmFIScxIaTJXz54Md3uvIMdUrM48kf3xTj+wEhqRn3YsuqbuwV1GUXUbtSP/PJRNDXz+K6hLe4Q==
+"@kaizentech/eslint-config-typescript-base@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config-typescript-base/-/eslint-config-typescript-base-1.2.0.tgz#7d8e2ba40cfe7f9e71c7110bb1d4d5836bb1a32e"
+  integrity sha512-VrEONvhTUWM8MWHVonyinj8TAO5HjI5V4yZICpe7TGExumTgeFUyoB6vnclurnwtj9sIe5ImPKnIZS2pjceyxw==
   dependencies:
-    "@kaizentech/eslint-config-base" "^1.3.0"
+    "@kaizentech/eslint-config-base" "^1.4.0"
     "@typescript-eslint/eslint-plugin" "^6.4.0"
     "@typescript-eslint/parser" "^6.4.0"
     eslint-config-airbnb-typescript "^17.1.0"
     eslint-import-resolver-typescript "^3.6.0"
     eslint-plugin-import "^2.27.5"
 
-"@kaizentech/eslint-config@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config/-/eslint-config-1.3.0.tgz#098caae08bf937209c01c6c8db6169360fed9fa9"
-  integrity sha512-2tCG2aoia26rxjlOdwXSgOfQjTqyVKU2GrIiOnlm0MVyGRG4B4Lm8zL6oDWDyjhRJNKElvoGg2FFuwOv9T/FeQ==
+"@kaizentech/eslint-config@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@kaizentech/eslint-config/-/eslint-config-1.4.0.tgz#77965334c841c416dea190cc3ffa544848d57914"
+  integrity sha512-M1Dgux8VKFjOwG2vSKNRCU92bDqrLb2tbDSewpn+kiUStCqIk02mTTLAYmFBt8KNQYG6s9NrHjVWrWPR0y1/bg==
   dependencies:
-    "@kaizentech/eslint-config-base" "^1.3.0"
+    "@kaizentech/eslint-config-base" "^1.4.0"
     "@kaizentech/eslint-plugin-react-native" "^1.0.0"
     eslint-config-airbnb "^19.0.4"
     eslint-plugin-jsx-a11y "^6.7.1"
