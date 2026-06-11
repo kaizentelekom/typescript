@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/kaizentelekom/typescript"
   },
+  "homepage": "https://github.com/kaizentelekom/typescript",
+  "bugs": {
+    "url": "https://github.com/kaizentelekom/typescript/issues"
+  },
   "author": "Kaizen",
   "license": "MIT",
   "dependencies": {
